@@ -1,0 +1,1 @@
+export const baseUrl = `https://vichar-backend-p5tr.onrender.com`
