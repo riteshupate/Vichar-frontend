@@ -4,7 +4,7 @@ import React from "react";
 const About = () => {
   return (
     <div>
-      <Center>About Page</Center>
+      <Center>Abouthbkujh Page</Center>
     </div>
   );
 };
